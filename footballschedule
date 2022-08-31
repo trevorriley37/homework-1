@@ -42,5 +42,8 @@
 <style>
 body {
   background-image: url('https://d4sjo25z9q3iq.cloudfront.net/images/2021/12/1/22fb_schedule2.jpg?preset=large.socialmediaimage');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 </style>
