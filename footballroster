@@ -42,6 +42,9 @@
 <style>
 body {
   background-image: url('https://pbs.twimg.com/media/FbVugnjWYAA6x-W?format=jpg&name=4096x4096');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 </style>
 
