@@ -39,6 +39,18 @@
 </nav>
 
 
+<div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+    First 3 Games
+  </button>
+  <ul class="dropdown-menu">
+    <li><a class="UTEP" href="#">Action</a></li>
+    <li><a class="Kent State" href="#">Another action</a></li>
+    <li><a class="@Nebraska" href="#">Something else here</a></li>
+  </ul>
+</div>
+
+
 <style>
 body {
   background-image: url('https://d4sjo25z9q3iq.cloudfront.net/images/2021/12/1/22fb_schedule2.jpg?preset=large.socialmediaimage');
