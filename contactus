@@ -40,6 +40,19 @@
 </nav>
 
 
+<p>
+  <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseWidthExample" aria-expanded="false" aria-controls="collapseWidthExample">
+    EMAIL:
+  </button>
+</p>
+<div style="min-height: 120px;">
+  <div class="collapse collapse-horizontal" id="collapseWidthExample">
+    <div class="card card-body" style="width: 300px;">
+      outickets@ou.edu
+    </div>
+  </div>
+
+
 
 
 
@@ -51,3 +64,6 @@ body {
   background-size: cover;
 }
 </style>
+
+
+
