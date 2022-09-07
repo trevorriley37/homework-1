@@ -44,6 +44,8 @@
 <h1>OU STUDENTS CLAIM YOUR SEASON TICKETS ONLINE <span class="badge bg-secondary">ASAP</span></h1>
 
 
+<!-- Bootstrap component 5-->
+
 <button type="button" class="btn-close btn-close-white" aria-label="Close"></button>
 <button type="button" class="btn-close btn-close-white" disabled aria-label="Close"></button>
 
