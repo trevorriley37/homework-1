@@ -44,6 +44,10 @@
 <h1>OU STUDENTS CLAIM YOUR SEASON TICKETS ONLINE <span class="badge bg-secondary">ASAP</span></h1>
 
 
+<button type="button" class="btn-close btn-close-white" aria-label="Close"></button>
+<button type="button" class="btn-close btn-close-white" disabled aria-label="Close"></button>
+
+
 <style>
 body {
   background-image: url('https://d4sjo25z9q3iq.cloudfront.net/images/2021/7/6/21fb_public_season_tickets_on_sale_now_71.jpg?width=1024&height=576&mode=crop');
