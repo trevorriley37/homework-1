@@ -51,6 +51,20 @@
       outickets@ou.edu
     </div>
   </div>
+  
+  
+  
+<p>
+  <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseWidthExample" aria-expanded="false" aria-controls="collapseWidthExample">
+    Phone:
+  </button>
+</p>
+<div style="min-height: 120px;">
+  <div class="collapse collapse-horizontal" id="collapseWidthExample">
+    <div class="card card-body" style="width: 300px;">
+      405-325-4411
+    </div>
+  </div>
 
 
 
