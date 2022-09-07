@@ -41,16 +41,11 @@
 
 
 
+
+
 <style>
 body {
-  background-image: url('<style>
-body {
-  background-image: url('https://pbs.twimg.com/media/FbVugnjWYAA6x-W?format=jpg&name=4096x4096');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
-</style>');
+  background-image: url('https://www.gannett-cdn.com/presto/2022/09/03/NOKL/493c5f4e-4f5e-48f6-9d87-99f0698c17a7-_LX11350.jpg?width=660&height=371&fit=crop&format=pjpg&auto=webp');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
